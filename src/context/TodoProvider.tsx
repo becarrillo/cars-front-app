@@ -1,6 +1,6 @@
 import { ReactNode } from "react";
-import {TodoContext} from './TodoContext';
-import { data } from './TodoContext';
+import { TodoContext } from './TodoContext';
+import { carros } from './TodoContext';
 
 
 interface ChildrenParam<T> {
@@ -9,7 +9,7 @@ interface ChildrenParam<T> {
 
 const TodoProvider = ({children}: ChildrenParam<ReactNode>) => {
     return (
-        <TodoContext.Provider value={{datos: data}}>
+        <TodoContext.Provider value={{carros: carros, stateAuthCompPointer: false}}>
             {children}
         </TodoContext.Provider>
     );

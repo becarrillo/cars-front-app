@@ -1,9 +1,7 @@
-#home1 {
-    background-image: url('../../assets/images/mustang.jpeg');
-    background-attachment: fixed;
-    background-position-x: center;
+#homeSection {
+    padding-top: 0;
 }
 
-#homeSection {
-    padding-top: 7.5%;
+#container {
+    background-color: transparent;
 }

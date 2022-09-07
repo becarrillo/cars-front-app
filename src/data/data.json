@@ -1,0 +1,15 @@
+{
+    "carros": [
+        {"brand": "Ford", "model": "Mustang 1967", "price": 136200, "pic": "https://th.bing.com/th/id/OIP.KYbWD0ZKQYT4kT9U7PkQlwHaFj?pid=ImgDet&rs=1", "contact-name": ""},
+        {"brand": "Mercedez Benz", "model": "H900", "price": 190000, "pic": "https://i2.wp.com/imagenesparapeques.com/wp-content/uploads/2017/07/Rayo-Mc-Queen-Cars-3.png"},
+        {"brand": "Renault", "model": "Clio 2007", "price": 89000, "pic": "https://th.bing.com/th/id/OIP.KYbWD0ZKQYT4kT9U7PkQlwHaFj?pid=ImgDet&rs=1"},
+        {"brand": "Chevrolet", "model": "Spark GT-Full 2018", "price": 115590, "pic": "https://i2.wp.com/imagenesparapeques.com/wp-content/uploads/2017/07/Rayo-Mc-Queen-Cars-3.png"},
+        {"brand": "Volvo", "model": "Sim-870E 2004", "price": 84000, "pic": "https://th.bing.com/th/id/OIP.KYbWD0ZKQYT4kT9U7PkQlwHaFj?pid=ImgDet&rs=1"},
+        {"brand": "Renault", "model": "Logan 2015", "price": 76400, "pic": "https://i2.wp.com/imagenesparapeques.com/wp-content/uploads/2017/07/Rayo-Mc-Queen-Cars-3.png"},
+        {"brand": "Renault", "model": "Stepway 2019", "price": 108000, "pic": "https://th.bing.com/th/id/OIP.KYbWD0ZKQYT4kT9U7PkQlwHaFj?pid=ImgDet&rs=1"},
+        {"brand": "Mazda", "model": "M8", "price": 137000, "pic": "https://i2.wp.com/imagenesparapeques.com/wp-content/uploads/2017/07/Rayo-Mc-Queen-Cars-3.png"}
+    ],
+    "usuarios": [
+        {"name": "Julio Díaz", "contact-number": "0123456789"}
+    ]
+}

@@ -8,6 +8,7 @@ import TodoProvider from './context/TodoProvider';
 
 import NotFoundPage from './components/NotFoundPage/NotFoundPage';
 import { Signup } from './components/Signup';
+import { AboutUs } from './components/AboutUs';
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/register' element={<Signup />} />
+          <Route path='/sobre-nosotros' element={<AboutUs />} />
           <Route path='/:any' element={<NotFoundPage />}/>
         </Routes>
       </BrowserRouter>
